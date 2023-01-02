@@ -1,0 +1,66 @@
+{
+  "produtos": [
+    {
+      "imgCapa": "https://s3-alpha-sig.figma.com/img/16ce/8ef8/55832db3017379f30038c5ee8102841a?Expires=1673827200&Signature=aDsCcezL~plG8Seld~hi3sX5NQj3HftGwNDyEkeJSNKxkZEG8qcTeQ3frQG~lrndzuoFDN8MR2V3XEjHaLO9tTuX00QL-5yYaAJ7Q2JwcltSqIga1brh6hx-hVafyAIOTqizapDiWiCge1Fd1i9u5Me5QOUa8vWvbk0UrWuGkijQy8ShgKSM7hC2WqurtUyNseY6JIb6h-VAi5M7ifX4tiJ-BzA74d0~qtuSkwt83Hr1T2h5UgXHk5sGF4WgpdcStweMqi~5kP0Sd74pbBaAPHJxNw-zxLSvL-dSmUbCjpKqsL2QTlLkMVsSqXZXObKschAr-Ssy4m6~lfnRALyODQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "descricao": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi eleifend, purus quis laoreet faucibus, ante augue malesuada mi, id rhoncus augue lorem eget elit. Ut sollicitudin sodales purus.</p>",
+      "titulo": "Girafa Arco-irís",
+      "pgAutores": {
+        "pgAutor1": "autores/jose-manzano.php"
+      },
+      "autores": {
+        "autor1": "José"
+      },
+      "categoria": "bichinho",
+      "paginas": "12",
+      "preco": 69,
+      "estoque": "Disponível também em formato ebook"
+    },
+    {
+      "imgCapa": "https://s3-alpha-sig.figma.com/img/16ce/8ef8/55832db3017379f30038c5ee8102841a?Expires=1673827200&Signature=aDsCcezL~plG8Seld~hi3sX5NQj3HftGwNDyEkeJSNKxkZEG8qcTeQ3frQG~lrndzuoFDN8MR2V3XEjHaLO9tTuX00QL-5yYaAJ7Q2JwcltSqIga1brh6hx-hVafyAIOTqizapDiWiCge1Fd1i9u5Me5QOUa8vWvbk0UrWuGkijQy8ShgKSM7hC2WqurtUyNseY6JIb6h-VAi5M7ifX4tiJ-BzA74d0~qtuSkwt83Hr1T2h5UgXHk5sGF4WgpdcStweMqi~5kP0Sd74pbBaAPHJxNw-zxLSvL-dSmUbCjpKqsL2QTlLkMVsSqXZXObKschAr-Ssy4m6~lfnRALyODQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "descricao": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi eleifend, purus quis laoreet faucibus, ante augue malesuada mi, id rhoncus augue lorem eget elit. Ut sollicitudin sodales purus.</p>",
+      "titulo": "Girafa Arco-irís",
+      "pgAutores": {
+        "pgAutor1": "autores/jose-manzano.php"
+      },
+      "autores": {
+        "autor1": "José"
+      },
+      "categoria": "bichinho",
+      "paginas": "12",
+      "preco": 69,
+      "estoque": "Disponível também em formato ebook"
+    },
+    {
+      "imgCapa": "https://s3-alpha-sig.figma.com/img/16ce/8ef8/55832db3017379f30038c5ee8102841a?Expires=1673827200&Signature=aDsCcezL~plG8Seld~hi3sX5NQj3HftGwNDyEkeJSNKxkZEG8qcTeQ3frQG~lrndzuoFDN8MR2V3XEjHaLO9tTuX00QL-5yYaAJ7Q2JwcltSqIga1brh6hx-hVafyAIOTqizapDiWiCge1Fd1i9u5Me5QOUa8vWvbk0UrWuGkijQy8ShgKSM7hC2WqurtUyNseY6JIb6h-VAi5M7ifX4tiJ-BzA74d0~qtuSkwt83Hr1T2h5UgXHk5sGF4WgpdcStweMqi~5kP0Sd74pbBaAPHJxNw-zxLSvL-dSmUbCjpKqsL2QTlLkMVsSqXZXObKschAr-Ssy4m6~lfnRALyODQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "descricao": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi eleifend, purus quis laoreet faucibus, ante augue malesuada mi, id rhoncus augue lorem eget elit. Ut sollicitudin sodales purus.</p>",
+      "titulo": "Girafa Arco-irís",
+      "pgAutores": {
+        "pgAutor1": "autores/jose-manzano.php"
+      },
+      "autores": {
+        "autor1": "José"
+      },
+      "categoria": "bichinho",
+      "paginas": "12",
+      "preco": 69,
+      "estoque": "Disponível também em formato ebook"
+    }, 
+    {
+      "imgCapa": "https://s3-alpha-sig.figma.com/img/16ce/8ef8/55832db3017379f30038c5ee8102841a?Expires=1673827200&Signature=aDsCcezL~plG8Seld~hi3sX5NQj3HftGwNDyEkeJSNKxkZEG8qcTeQ3frQG~lrndzuoFDN8MR2V3XEjHaLO9tTuX00QL-5yYaAJ7Q2JwcltSqIga1brh6hx-hVafyAIOTqizapDiWiCge1Fd1i9u5Me5QOUa8vWvbk0UrWuGkijQy8ShgKSM7hC2WqurtUyNseY6JIb6h-VAi5M7ifX4tiJ-BzA74d0~qtuSkwt83Hr1T2h5UgXHk5sGF4WgpdcStweMqi~5kP0Sd74pbBaAPHJxNw-zxLSvL-dSmUbCjpKqsL2QTlLkMVsSqXZXObKschAr-Ssy4m6~lfnRALyODQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "descricao": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi eleifend, purus quis laoreet faucibus, ante augue malesuada mi, id rhoncus augue lorem eget elit. Ut sollicitudin sodales purus.</p>",
+      "titulo": "Girafa Arco-irís",
+      "pgAutores": {
+        "pgAutor1": "autores/jose-manzano.php"
+      },
+      "autores": {
+        "autor1": "José"
+      },
+      "categoria": "bichinho",
+      "paginas": "12",
+      "preco": 69,
+      "estoque": "Disponível também em formato ebook"
+    }
+
+   
+  ]
+}
