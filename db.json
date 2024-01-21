@@ -10,20 +10,24 @@
 
 "category" : [
    {
+     "id" : 1,
     "name" : "All",
-    "icon" : "assets/icons/category/all.svg"
+    "image" : "assets/icons/category/all.svg"
   }, 
   {
+    "id" : 2,
     "name" : "Receitas",
-    "icon" : "assets/icons/category/livro-de-receitas.svg"
+    "image" : "assets/icons/category/livro-de-receitas.svg"
   },
   {
+    "id" : 3,
     "name" : "Materiais",
     "icon" : "assets/icons/category/trico.svg"
   },
   {
+    "id" : 4,
     "name" : "Amigurumes",
-    "icon" : "assets/icons/category/amigurumes.svg"
+    "image" : "assets/icons/category/amigurumes.svg"
   }
 ],
 
