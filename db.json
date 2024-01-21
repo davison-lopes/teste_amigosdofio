@@ -8,7 +8,7 @@
 },
   
 
-"categories" : [
+"category" : [
    {
     "name" : "All",
     "icon" : "assets/icons/category/all.svg"
