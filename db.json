@@ -22,17 +22,17 @@
     "image" : "assets/icons/category/amigurumes.svg"
   },
   {
-    "id" : 4,
-    "name" : "Materiais",
-    "icon" : "assets/icons/category/trico.svg"
-  },
-  {
     "id" : 5,
     "name" : "Materiais",
     "icon" : "assets/icons/category/trico.svg"
   },
   {
     "id" : 6,
+    "name" : "Materiais",
+    "icon" : "assets/icons/category/trico.svg"
+  },
+  {
+    "id" : 7,
     "name" : "Materiais",
     "icon" : "assets/icons/category/trico.svg"
   }
