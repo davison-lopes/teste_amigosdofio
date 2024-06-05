@@ -25,11 +25,6 @@
     "id" : 5,
     "name" : "Materiais",
     "icon" : "assets/icons/category/trico.svg"
-  },
-  {
-    "id" : 6,
-    "name" : "Materiais",
-    "icon" : "assets/icons/category/trico.svg"
   }
  
 ],
@@ -118,20 +113,7 @@
     "review" : "4",
     "is_favorited" : false,
     "description" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available."
-  },
-  {
-    "id" : 107,
-    "name" : "Caster",
-    "image" : "https://images.unsplash.com/photo-1554446422-d05db23719d2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGZhc2hpb258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "price" : "95.00",
-    "difficulty" : "Fácil",   
-    "duration" : "8 hours",
-    "session" : "4 lessons",
-    "review" : "4.5",
-    "is_favorited" : false,
-    "description" : "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available."
   }
-
  ],
 
 "features" : [
